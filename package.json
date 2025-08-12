@@ -1,0 +1,13 @@
+{
+  "name": "telegram_proxy_server",
+  "version": "1.0.0",
+  "description": "Telegram proxy server for microworkers alerts",
+  "main": "server_render.js",
+  "scripts": {
+    "start": "node server_render.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.1"
+  }
+}
